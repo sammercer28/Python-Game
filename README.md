@@ -76,7 +76,7 @@ The objective is to control a penguin, collect coins for points, and avoid falli
     - Avoid fireballs (-1 point).
     - Scores are saved automatically to scores.txt.
 
-##🏆 High Score System
+## 🏆 High Score System
 The top 5 high scores are displayed on screen after each round.
 
 Scores are saved to scores.txt automatically.
