@@ -82,10 +82,12 @@ The top 5 high scores are displayed on screen after each round.
 Scores are saved to scores.txt automatically.
 
 Example scores.txt content:
-Alex 25
-Sam 19
-Jordan 11
+  Alex 25
+  Sam 19
+  Jordan 11
 
+## 📧 Contact
+If you’d like to discuss this project or my other work, feel free to connect with me on LinkedIn or through the contact details on my CV.
 
 
 
